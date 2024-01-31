@@ -6,6 +6,10 @@ public static class HotelRoom
    {
     system.out.printIn("Search"+ Search);
    }
-   public void Booking();
+   public void Booking(strinfg book)
+   {
+        system.out.printIn("Book "+ Book);
+
+   }
    public void Details();
 }
